@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @METKA0
+- 🌱 I’m currently learning C and C++
+- 📫 How to reach me tayfunmetekar@gmail.com
